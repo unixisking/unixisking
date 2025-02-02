@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Sid Ahmed**, a passionate developer focusing web development on learning algorithm and data structures, and data visualization. Here's some things I have been working on :
+I'm **Sid Ahmed**, a passionate developer focusing on full-stack web development, algorithm and data structures, and data visualization. Here's some things I have been working on :
 
 ## 🚀 Pinned Projects
 
