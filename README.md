@@ -36,4 +36,4 @@ I'm **Sid Ahmed**, a passionate developer focusing on full-stack web development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidahmed-brahimi/)
 
-Feel
+Feel free to explore these repositories to learn more about my work. Contributions, suggestions, and feedback are always welcome!
