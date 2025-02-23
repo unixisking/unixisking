@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Sid Ahmed**, a passionate developer focusing on full-stack web development, algorithms and data structures, and data visualization.
+I'm **Sid Ahmed**, a passionate developer focusing on full-stack web development, and computer science fundamentals.
 
 ## 🛠️ Skills
 
